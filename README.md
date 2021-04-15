@@ -1,3 +1,3 @@
 # Crypto_Predictions
 
-A simple neural network for crypto price prediction.
+A simple neural network for crypto price predictions.
