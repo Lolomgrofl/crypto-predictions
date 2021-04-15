@@ -1,3 +1,3 @@
 # Crypto_Predictions
 
-Simple crypto predictions using TF Neural Network
+A simple neural network for crypto price prediction.
